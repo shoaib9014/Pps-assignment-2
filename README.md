@@ -20,6 +20,7 @@ User-defined functions
 for loops
 Bitwise operators (&, |, ^)
 if / else if conditional statements
+
 How to Run:
 gcc 1_sum_difference.c -o program
 ./program
