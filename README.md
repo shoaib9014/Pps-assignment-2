@@ -14,13 +14,16 @@ C solutions for Assignment-2, solved and accepted on HackerRank.
 | 4 | Bitwise Operators | `4_bitwise_operators.c` |
 | 5 | Conditional Statements in C | `5_conditional_statements.c` |
 
-Concepts Covered:
-Input and output with scanf / printf
-User-defined functions
-for loops
-Bitwise operators (&, |, ^)
-if / else if conditional statements
+## Concepts Covered
 
-How to Run:
+- Input and output with `scanf` / `printf`
+- User-defined functions
+- `for` loops
+- Bitwise operators (`&`, `|`, `^`)
+- `if` / `else if` conditional statements
+
+## How to Run
+
+```bash
 gcc 1_sum_difference.c -o program
 ./program
