@@ -13,6 +13,7 @@ C solutions for Assignment-2, solved and accepted on HackerRank.
 | 3 | For Loop in C | `3_for_loop.c` |
 | 4 | Bitwise Operators | `4_bitwise_operators.c` |
 | 5 | Conditional Statements in C | `5_conditional_statements.c` |
+
 Concepts Covered:
 Input and output with scanf / printf
 User-defined functions
